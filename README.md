@@ -1,10 +1,12 @@
-2048 Solitaire
-By: Aashrit Luthra
+2048 Solitaire (By: Aashrit Luthra)
 
 Summary
 
 2048 Solitaire is the traditional solitaire card game with a twist. The user stacks their cards in columns, trying to merge cards of the same numerical value to double them. 
-Objective: Achieve the 2048 card without overflowing the columns.
+
+Objective
+
+Achieve the 2048 card without overflowing the columns.
 
 Features
 
