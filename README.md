@@ -1,4 +1,4 @@
-2048 Solitaire (By: Aashrit Luthra)
+2048 Solitaire (By: Aashrit Luthra and Romaljeet Bal)
 
 Summary
 
